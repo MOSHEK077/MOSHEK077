@@ -24,7 +24,7 @@ I’m deeply passionate about **Java**, **web development**, and exploring new t
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: **[msmusictamil@gmail.com](mailto:msmusictamil@gmail.com)**  
+- 📧 Email: **[msmusictamil@gmail.com](mailto:jonesmoshekofficial@gmail.com)**  
 - 💼 LinkedIn: *coming soon* 😉  
 - 🌐 Portfolio: *in progress*  
 
