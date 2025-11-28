@@ -25,8 +25,8 @@ I’m deeply passionate about **Java**, **web development**, and exploring new t
 
 ### 📫 How to Reach Me
 - 📧 Email: **[jonesmoshekofficial@gmail.com](mailto:jonesmoshekofficial@gmail.com)**  
-- 💼 LinkedIn: (https://www.linkedin.com/in/msjones07/)
-- 🌐 Portfolio: *in progress*  
+- 💼 LinkedIn: https://www.linkedin.com/in/msjones07/
+- 🌐 Portfolio: https://moshek077.github.io/NewWebPortFolio/
 
 ---
 
